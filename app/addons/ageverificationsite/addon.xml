@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<addon scheme="3.0">
+    <id>ageverificationsite</id>
+    <version>4.13.2.0</version>
+    <priority>1200</priority>
+    <position>10</position>
+    <status>active</status>
+    <has_icon>Y</has_icon>
+    <default_language>en</default_language>
+</addon>
